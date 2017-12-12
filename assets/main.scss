@@ -4,32 +4,31 @@
 
 @import "minima";
 
+/*start of traditional CSS*/
 main.page-content{
   background: #d7cec7;
 }
 
-/*start of traditional CSS*/
-ul.experience{
+ul.cv_list{
     list-style-type: none;
     color: white;
 }
 
 /*tiger striping*/
-li.work_item {
-    background: #76323f;
+li.cv_item {
+    background: #565656;
     border-radius: 25px;
     padding:20px;
 }
-li.work_item:nth-child(odd){
+li.cv_item:nth-child(odd){
     background: #c09f80;
-    //color:black;
 }
 
-li.work_item > div.date {
+li.cv_item > div.date {
   font-style: italic;
 }
 
-li.work_item > span.role {
+li.cv_item > span.title {
   font-weight: bold;
 }
 
@@ -38,6 +37,10 @@ a.place_url{
   color: white;
 }
 
-li.work_item > div.hours{
-  //font-size: 80%;
+li.tech{
+  display: inline;
+  //border-style: dotted;
+  padding: 2px;
+  background: #d7cec7;
+  color:#76323f;
 }

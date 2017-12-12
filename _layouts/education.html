@@ -7,12 +7,12 @@ layout: default
   </header>
   {{content}}
   <ul class="cv_list">
-  {% for item in site.data.experience %}
+  {% for item in site.data.education %}
     <li class="cv_item">
       <div class="date">{{item.from}} - {{item.to}}</div>
-      <span class="title">{{item.role}}</span> at
+      <span class="title">{{item.title}}</span> at
       <span class="place"><a class="place_url" href="{{item.place_url}}">{{item.place}}</a></span>
-      <div class="hours">({{item.hours}})</div>
+      <div class="ranking">{{item.ranking}}</div>
       <div class="description">{{item.description}}</div>
       <ul class="description_list">
         {% for d in item.description_list %}

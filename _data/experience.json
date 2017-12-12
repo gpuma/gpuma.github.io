@@ -10,7 +10,7 @@
     "hours": "Full-time",
     "description": "Some units I taught:",
     "description_list": ["Web Programming 1 & 2", "Introduction to Programming", "Operating Systems"],
-    "technologies":["python","numpy","spring","java","objectify","jdo","gradle","perl","mysql","ajax","javascript","html","css"]
+    "technologies":["c","python","numpy","spring","java","objectify","jdo","gradle","perl","mysql","ajax","javascript","html","css","go"]
   },
   {
     "from": "Aug 2016",
@@ -23,7 +23,7 @@
     "hours": "Part-time",
     "description": "Some units I taught:",
     "description_list": ["Web Programming", "Introduction to Databases"],
-    "technologies":["c#","asp.net","sql","sql server"]
+    "technologies":["c#","asp.net","webforms","sql","sql server"]
   },
   {
     "from": "Jun 2013",
@@ -35,7 +35,7 @@
     "industry":"Banking",
     "hours": "Full-time",
     "description": "In charge of:",
-    "description_list": ["Web Programming", "Introduction to Databases"],
+    "description_list": ["Analysis of requirements, design and implementation of software solutions"],
     "technologies": ["c#","asp.net","winforms","sql server","visual foxpro"]
   },
 ]
