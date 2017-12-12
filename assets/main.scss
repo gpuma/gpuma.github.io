@@ -1,0 +1,43 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+main.page-content{
+  background: #d7cec7;
+}
+
+/*start of traditional CSS*/
+ul.experience{
+    list-style-type: none;
+    color: white;
+}
+
+/*tiger striping*/
+li.work_item {
+    background: #76323f;
+    border-radius: 25px;
+    padding:20px;
+}
+li.work_item:nth-child(odd){
+    background: #c09f80;
+    //color:black;
+}
+
+li.work_item > div.date {
+  font-style: italic;
+}
+
+li.work_item > span.role {
+  font-weight: bold;
+}
+
+a.place_url{
+  text-decoration: underline;
+  color: white;
+}
+
+li.work_item > div.hours{
+  //font-size: 80%;
+}

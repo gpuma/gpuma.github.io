@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="experience">
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
@@ -11,10 +10,20 @@ layout: default
   {% for item in site.data.experience %}
     <li class="work_item">
       <div class="date">{{item.from}} - {{item.to}}</div>
-      <div class="position">
-        {{item.role}} at <span class="place">{{item.place}}</span>
-      </div>
-      <div class="description">{{item.desc}}</div>
+      <span class="role">{{item.role}}</span> at
+      <span class="place"><a class="place_url" href="{{item.place_url}}">{{item.place}}</a></span>
+      <div class="hours">({{item.hours}})</div>
+      <div class="description">{{item.description}}</div>
+      <ul class="description_list">
+        {% for d in item.description_list %}
+          <li>{{d}}</li>
+        {% endfor %}
+      </ul>
+      <ul class="description_list">
+        {% for t in item.technologies %}
+          <li>{{t}}</li>
+        {% endfor %}
+      </ul>
     </li>
   {% endfor %}
   </ul>
