@@ -21,12 +21,9 @@ layout: default
           <li>{{d}}</li>
         {% endfor %}
       </ul>
-      Technologies:
-      <ul class="technologies">
-        {% for t in item.technologies %}
-          <li class="tech">{{t}}</li>
-        {% endfor %}
-      </ul>
+      {% if item.technologies %}
+        {% include technologies.html %}
+      {% endif %}
     </li>
   {% endfor %}
   </ul>

@@ -10,7 +10,8 @@
     "hours": "Full-time",
     "description": "Some units I taught:",
     "description_list": ["Web Programming 1 & 2", "Introduction to Programming", "Operating Systems"],
-    "technologies":["c","python","numpy","spring","java","objectify","jdo","gradle","perl","mysql","ajax","javascript","html","css","go"]
+    "technologies":["c","python","numpy","spring","java","objectify","jdo",
+      "gradle","perl","mysql","ajax","javascript","html","css","go","octave","matlab"]
   },
   {
     "from": "Aug 2016",

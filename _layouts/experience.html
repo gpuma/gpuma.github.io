@@ -27,5 +27,25 @@ layout: default
       </ul>
     </li>
   {% endfor %}
+</ul>
+  <h1 class="post-heading">Other</h1>
+  <ul class="cv_list">
+  {% for item in site.data.other_experience %}
+    <li class="cv_item">
+      <div class="date">{{item.from}} - {{item.to}}</div>
+      <span class="title">{{item.role}}</span> at
+      <span class="place"><a class="place_url" href="{{item.place_url}}">{{item.place}}</a></span>
+      <div class="hours">({{item.hours}})</div>
+      <div class="description">{{item.description}}</div>
+      <ul class="description_list">
+        {% for d in item.description_list %}
+          <li>{{d}}</li>
+        {% endfor %}
+      </ul>
+      {% if item.technologies %}
+        {% include technologies.html %}
+      {% endif %}
+    </li>
+  {% endfor %}
   </ul>
 </div>

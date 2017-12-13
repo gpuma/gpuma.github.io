@@ -9,7 +9,6 @@
     "ranking": "GPA of 5.833 out of 7",
     "description": "Some of my favorite units:",
     "description_list": ["Search Engine Technology", "Mobile and Ubiquitous Computing","Advanced Topics in AI"],
-    "technologies":["xamarin"]
   },
   {
     "from": "March 2016",
@@ -18,7 +17,7 @@
     "country": "Peru",
     "place_url": "http://ucsm.edu.pe/",
     "title": "Systems Engineer Degree*",
-    "description": "*In Peru, this degree is awarded after the completion of a thesis work, after a Bachelor degree is awarded.",
+    "description": "*In Peru, this degree is awarded upon disertation of a thesis work, after a Bachelor degree is completed.",
   },
   {
     "from": "2008",
@@ -30,6 +29,5 @@
     "ranking": "Ranked #6 out of 70 graduates",
     "description": "*In Peru, Systems Engineering is the equivalent of an Information Technology degree in the rest of the world.\nSome of my favorite units:",
     "description_list": ["Data Structures and Algorithms", "Image Processing"],
-    "technologies":["xamarin"]
   },
 ]
