@@ -1,0 +1,42 @@
+[
+  {
+    "from": "Mar 2017",
+    "to": "Current",
+    "role": "Assistant Professor",
+    "place": "Universidad Nacional de San Agustín",
+    "place_url": "http://www.unsa.edu.pe/",
+    "type":"Public",
+    "industry":"Education",
+    "hours": "Full-time",
+    "description": "Some units I taught:",
+    "description_list": ["Web Programming 1 & 2", "Introduction to Programming", "Operating Systems"],
+    "technologies":["c","python","numpy","spring","java","objectify","jdo",
+      "gradle","perl","mysql","ajax","javascript","html","css","go","octave","matlab"]
+  },
+  {
+    "from": "Aug 2016",
+    "to": "Jul 2017",
+    "role": "Lecturer",
+    "place": "UNITEK",
+    "place_url": "http://unitek.edu.pe/",
+    "type":"Private",
+    "industry":"Education",
+    "hours": "Part-time",
+    "description": "Some units I taught:",
+    "description_list": ["Web Programming", "Introduction to Databases"],
+    "technologies":["c#","asp.net","webforms","sql","sql server"]
+  },
+  {
+    "from": "Jun 2013",
+    "to": "Feb 2014",
+    "role": "Junior Analyst Programmer",
+    "place": "Compartamos Financiera S.A.",
+    "place_url": "https://www.compartamos.com.pe/wps/portal/Peru/Inicio",
+    "type":"Private",
+    "industry":"Banking",
+    "hours": "Full-time",
+    "description": "In charge of:",
+    "description_list": ["Analysis of requirements, design and implementation of software solutions"],
+    "technologies": ["c#","asp.net","winforms","sql server","visual foxpro"]
+  },
+]
