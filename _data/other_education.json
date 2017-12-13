@@ -1,0 +1,41 @@
+[
+  {
+    "date": "March 2017",
+    "place": "University of Amsterdam",
+    "place_url": "http://www.uva.nl/en",
+    "platform": "Coursera",
+    "verification": "http://coursera.org/verify/CV2484N9XL9X",
+    "title": "Basic Statistics",
+  },
+  {
+    "date": "Sept 2016",
+    "place": "Stanford University",
+    "place_url": "https://www.stanford.edu/",
+    "platform": "Coursera",
+    "verification": "http://coursera.org/verify/D99SKCYNKWHY",
+    "title": "Machine Learning",
+  },
+  {
+    "date": "June 2016",
+    "place": "Universiteit Leiden & Meertens Instituut (KNAW)",
+    "place_url": "www.universiteitleiden.nl",
+    "platform": "Coursera",
+    "verification": "http://coursera.org/verify/34BPDFFR9GW5",
+    "title": "Miracles of Human Language: An Introduction to Linguistics",
+  },
+  {
+    "date": "May 2016",
+    "place": "MongoDB, Inc",
+    "place_url": "https://university.mongodb.com/",
+    "platform": "MongoDB University",
+    "verification": "http://education.mongodb.com/downloads/certificates/82b80f2713f349e695bf0bc76b2e7e76/Certificate.pdf",
+    "title": "M101JS: MongoDB for Node.js Developers",
+  },
+  {
+    "date": "June 2014",
+    "place": "Stanford University",
+    "place_url": "https://www.stanford.edu/",
+    "platform": "Coursera",
+    "title": "Cryptography I",
+  },
+]
