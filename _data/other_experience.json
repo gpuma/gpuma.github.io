@@ -8,8 +8,9 @@
     "type":"Private",
     "industry":"Mechanic",
     "hours": "Part-time",
-    "description": "shit",
-    "description_list": ["shit", "shit"],
+    "description": "In charge of:",
+    "description_list": ["Technical support"],
+    "technologies":["windows-active-directory"]
   },
   {
     "from": "Jan 2012",
@@ -22,7 +23,6 @@
     "hours": "Part-time Internship",
     "description": "In charge of:",
     "description_list": ["Technical support"],
-    "technologies":["windows-active-directory"]
   },
   {
     "from": "Jan 2011",

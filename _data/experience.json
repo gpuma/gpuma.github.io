@@ -36,7 +36,7 @@
     "industry":"Banking",
     "hours": "Full-time",
     "description": "In charge of:",
-    "description_list": ["Analysis of requirements, design and implementation of software solutions"],
+    "description_list": ["Analysis of requirements, design and implementation of software projects"],
     "technologies": ["c#","asp.net","winforms","sql server","visual foxpro"]
   },
 ]
