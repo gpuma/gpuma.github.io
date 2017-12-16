@@ -39,6 +39,12 @@
             {% include icon-so.html user_id=site.so_id %}
           </li>
           {% endif %}
+
+          {% if site.yt_username %}
+          <li>
+            {% include icon-yt.html id=site.yt_id %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 

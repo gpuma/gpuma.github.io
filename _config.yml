@@ -19,7 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal site of Gustavo Puma
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  gpuma
+github_username: gpuma
+yt_username: AMPIVA
+yt_id: UCvnWXnvsHXR4zHKp7UFvNLg
 so_id: 344162 # stackoverflow id
 
 # Build settings
