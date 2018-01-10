@@ -10,15 +10,6 @@
     "technologies":["c#","xamarin-forms","xamarin-android","ibeacon","eddystone","sql-server","REST"]
   },
   {
-    "year": "2015",
-    "title": "ibhi-project",
-    "repo_url": "https://github.com/gpuma/ihbi-project",
-    "type": "Academic",
-    "group": "Group",
-    "description": "Health promotion social app developed for the \n Younger Women's Wellness After Cancer (YYWWAC) program for my \"Advanced Topic\" class. I worked on the Geolocation and Facebook data presentation parts.",
-    "technologies":["c#","xamarin-forms","facebook-graph-api","azure","REST","oauth","google-maps-api"]
-  },
-  {
     "year": "2014",
     "title": "kyokuFind",
     "repo_url": "https://github.com/gpuma/kyokufind",
@@ -29,6 +20,15 @@
       Also has a \"music discovery\" feature implemented using the Last.fm API (RIP).
       Final project for the \"Search Engine Technology\" class of my Master.",
     "technologies":["c#","lucene.net","winforms","taglib-sharp","last.fm"]
+  },
+  {
+    "year": "2015",
+    "title": "ihbi-project",
+    "repo_url": "https://github.com/gpuma/ihbi-project",
+    "type": "Academic",
+    "group": "Group",
+    "description": "Health promotion social app developed for the \n Younger Women's Wellness After Cancer (YYWWAC) program for my \"Advanced Topic\" class. I worked on the Geolocation and Facebook data presentation parts.",
+    "technologies":["c#","xamarin-forms","facebook-graph-api","azure","REST","oauth","google-maps-api"]
   },
   {
       "year": "2017",
@@ -51,14 +51,5 @@
     and then uploads it to an FTP server of your choosing so you can have a look.\n
     Made this to make sure my laptop didn't get stolen when I left it at the library lol.",
     "technologies":["python"]
-  },
-  {
-    "year": "2014",
-    "title": "proyecto-nosql",
-    "repo_url": "https://github.com/gpuma/proyecto-nosql",
-    "type": "Personal",
-    "group": "Individual",
-    "description": "Toy project for learning MongoDB. CRUD functionality.",
-    "technologies":["c#","mongodb"]
   },
 ]
