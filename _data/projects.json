@@ -1,5 +1,14 @@
 [
   {
+    "year": "2018",
+    "title": "Phuyu",
+    "repo_url": "https://github.com/gpuma/phuyu",
+    "type": "Personal",
+    "group": "Individual",
+    "description": "Phuyu, which means cloud in Quechua, is a small web application for word cloud generation, inspired by Wordie. Phuyu uses its own greedy algorithm for cloud generation, based on word frequency.",
+    "technologies":["python-3","django","celery","rabbitmq","boostrap-4","sql","pillow", "nltk"]
+  },
+  {
     "year": "2016",
     "title": "Care-App",
     "repo_url": "https://github.com/gpuma/care-app",
