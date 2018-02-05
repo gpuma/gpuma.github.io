@@ -1,6 +1,15 @@
 [
   {
     "year": "2018",
+    "title": "Yachay",
+    "repo_url": "https://github.com/gpuma/yachay",
+    "type": "Personal",
+    "group": "Individual",
+    "description": "Blackboard-style SPA written to teach myself Vue.js and ASP.NET Core.",
+    "technologies":["vue.js","typescript","ef-core","asp.net-core","boostrap","sql-server","spa"]
+  },
+  {
+    "year": "2018",
     "title": "Phuyu",
     "repo_url": "https://github.com/gpuma/phuyu",
     "type": "Personal",
