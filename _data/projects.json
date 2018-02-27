@@ -66,8 +66,7 @@
     "type": "Personal",
     "group": "Individual",
     "description": "Takes a timestamped picture using your laptop's webcam every five minutes\n
-    and then uploads it to an FTP server of your choosing so you can have a look.\n
-    Made this to make sure my laptop didn't get stolen when I left it at the library lol.",
+    and then uploads it to an FTP server of your choosing so you can have a look.\n",
     "technologies":["python"]
   },
 ]
