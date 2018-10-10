@@ -8,8 +8,8 @@
     "type":"Private",
     "industry":"Banking",
     "hours": "Full-time",
-    "description": "Backend development of REST APIs that power an Android app:",
-    "description_list": ["Web Programming 1 & 2", "Introduction to Programming", "Operating Systems"],
+    "description": "In charge of:",
+    "description_list": ["Backend development of REST APIs that power our group credit Android app."],
     "technologies":["c#","web-api","swagger","REST","sql","jboss-fuse","cxf","postman"]
   },
   {
