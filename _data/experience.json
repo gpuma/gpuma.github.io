@@ -2,7 +2,7 @@
   {
     "from": "Apr 2018",
     "to": "Current",
-    "role": "Software Engineer",
+    "role": "Analyst Developer (.NET)",
     "place": "Compartamos Financiera",
     "place_url": "https://www.compartamos.com.pe",
     "type":"Private",
@@ -10,7 +10,7 @@
     "hours": "Full-time",
     "description": "In charge of:",
     "description_list": ["Backend development of REST APIs that power our group credit Android app."],
-    "technologies":["c#","web-api","swagger","REST","sql","jboss-fuse","cxf","postman"]
+    "technologies":["c#", "net472","web-api","swagger","REST","sql-server","java","jboss-fuse","cxf","postman"]
   },
   {
     "from": "Mar 2017",
