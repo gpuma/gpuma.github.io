@@ -1,16 +1,59 @@
 [
   {
-    "from": "Apr 2018",
+    "from": "Apr 2019",
     "to": "Current",
+    "role": "Data Engineer",
+    "place": "Runtastic GmbH",
+    "place_url": "https://www.runtastic.com/",
+    "type": "Private",
+    "industry": "Fitness",
+    "hours": "Full-time",
+    "description": "In charge of",
+    "description_list": [
+      "Developing datasets, data pipelines and data products.",
+      "Coordinating maintenance efforts for our legacy analytics systems.",
+      "Building our new Cloud Analytics Platform."
+    ],
+    "technologies": [
+      "python",
+      "azure",
+      "spark",
+      "databricks",
+      "sql",
+      "sql-server",
+      "c#",
+      ".netcore",
+      "pyspark",
+      "delta",
+      "data-factory",
+      "eventhub"
+    ]
+  },
+  {
+    "from": "Apr 2018",
+    "to": "Feb 2019",
     "role": "Analyst Developer (.NET)",
     "place": "Compartamos Financiera",
     "place_url": "https://www.compartamos.com.pe",
-    "type":"Private",
-    "industry":"Banking",
+    "type": "Private",
+    "industry": "Banking",
     "hours": "Full-time",
     "description": "In charge of:",
-    "description_list": ["Backend development of REST APIs that power our group credit Android app."],
-    "technologies":["c#", "net472","web-api","swagger","REST","sql-server","java","jboss-fuse","cxf","postman"]
+    "description_list": [
+      "Backend development of REST APIs that power our group credit Android app."
+    ],
+    "technologies": [
+      "c#",
+      "net472",
+      "web-api",
+      "swagger",
+      "REST",
+      "sql-server",
+      "java",
+      "jboss-fuse",
+      "cxf",
+      "postman"
+    ]
   },
   {
     "from": "Mar 2017",
@@ -18,13 +61,34 @@
     "role": "Assistant Lecturer",
     "place": "Universidad Nacional de San Agustín",
     "place_url": "http://www.unsa.edu.pe/",
-    "type":"Public",
-    "industry":"Education",
+    "type": "Public",
+    "industry": "Education",
     "hours": "Full-time",
     "description": "Some units I taught:",
-    "description_list": ["Web Programming 1 & 2", "Introduction to Programming", "Operating Systems"],
-    "technologies":["c","python","numpy","spring","java","objectify","jdo",
-      "gradle","perl","mysql","ajax","javascript","html","css","go","octave","matlab"]
+    "description_list": [
+      "Web Programming 1 & 2",
+      "Introduction to Programming",
+      "Operating Systems"
+    ],
+    "technologies": [
+      "c",
+      "python",
+      "numpy",
+      "spring",
+      "java",
+      "objectify",
+      "jdo",
+      "gradle",
+      "perl",
+      "mysql",
+      "ajax",
+      "javascript",
+      "html",
+      "css",
+      "go",
+      "octave",
+      "matlab"
+    ]
   },
   {
     "from": "Aug 2016",
@@ -32,12 +96,21 @@
     "role": "Lecturer",
     "place": "UNITEK",
     "place_url": "http://unitek.edu.pe/",
-    "type":"Private",
-    "industry":"Education",
+    "type": "Private",
+    "industry": "Education",
     "hours": "Part-time",
     "description": "Some units I taught:",
-    "description_list": ["Web Programming", "Introduction to Databases"],
-    "technologies":["c#","asp.net","webforms","sql","sql server"]
+    "description_list": [
+      "Web Programming",
+      "Introduction to Databases"
+    ],
+    "technologies": [
+      "c#",
+      "asp.net",
+      "webforms",
+      "sql",
+      "sql server"
+    ]
   },
   {
     "from": "Jun 2013",
@@ -45,11 +118,19 @@
     "role": "Junior Analyst Programmer",
     "place": "Compartamos Financiera S.A.",
     "place_url": "https://www.compartamos.com.pe/wps/portal/Peru/Inicio",
-    "type":"Private",
-    "industry":"Banking",
+    "type": "Private",
+    "industry": "Banking",
     "hours": "Full-time",
     "description": "In charge of:",
-    "description_list": ["Analysis of requirements, design and implementation of software projects"],
-    "technologies": ["c#","asp.net","winforms","sql server","visual foxpro"]
+    "description_list": [
+      "Analysis of requirements, design and implementation of software projects"
+    ],
+    "technologies": [
+      "c#",
+      "asp.net",
+      "winforms",
+      "sql server",
+      "visual foxpro"
+    ]
   },
 ]
